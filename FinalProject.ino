@@ -193,6 +193,7 @@ void endGame() {
     // Stop the game
     gameOver = true;
 
+    // Play death sound
     tone(BuzzerPin, NOTE_GS6, 100);
     delay(100);
     tone(BuzzerPin, NOTE_FS6, 100);
