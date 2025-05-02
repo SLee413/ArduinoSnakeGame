@@ -14,3 +14,5 @@ Component Requirements:
  
 Libraries:
 - https://github.com/wayoda/LedControl/
+
+[Demo](https://youtu.be/6TbgicdRZSk)
